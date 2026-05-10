@@ -51,7 +51,7 @@ The project includes:
 
 
 ### Death Analysis
-![Death Analysis](Images/death_analysis.png)
+![Death Analysis](https://raw.githubusercontent.com/Piyush-Analytics/COVID19-PowerBI-Dashboard/main/Images/death_analysis.png)
 
 ## Conclusion
 This project demonstrates practical healthcare data analysis and visualization skills using Python.
