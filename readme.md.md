@@ -47,7 +47,7 @@ The project includes:
 ## Sample Visualizations
 
 ### Correlation Heatmap
-![Heatmap](Images/"C:/Users/sp759/Downloads/correlation_heatmap.png")
+![Heatmap](Images/https://github.com/Piyush-Analytics/COVID19-PowerBI-Dashboard/blob/main/correlation_heatmap.png?raw=true)
 
 
 ### Death Analysis
