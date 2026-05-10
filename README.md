@@ -54,6 +54,10 @@ The project includes:
 ![Death Analysis](https://raw.githubusercontent.com/Piyush-Analytics/COVID19-PowerBI-Dashboard/main/death_analysis.png)
 
 ### Dashboard COVID-19 healthcare dataset
+![Demographics](https://raw.githubusercontent.com/Piyush-Analytics/COVID19-PowerBI-Dashboard/main/02_demographics.png)
+![Severity_icu](https://raw.githubusercontent.com/Piyush-Analytics/COVID19-PowerBI-Dashboard/main/03_severity_icu.png)
+![comorbidities](https://raw.githubusercontent.com/Piyush-Analytics/COVID19-PowerBI-Dashboard/main/04_comorbidities.png)
+![Mortality](https://raw.githubusercontent.com/Piyush-Analytics/COVID19-PowerBI-Dashboard/main/05_mortality_deep_dive.png)
 
 ## Conclusion
 This project demonstrates practical healthcare data analysis and visualization skills using Python.
