@@ -47,7 +47,7 @@ The project includes:
 ## Sample Visualizations
 
 ### Correlation Heatmap
-![Heatmap](Images/correlation_heatmap.png)
+![Heatmap](Images/"C:/Users/sp759/Downloads/correlation_heatmap.png")
 
 
 ### Death Analysis
