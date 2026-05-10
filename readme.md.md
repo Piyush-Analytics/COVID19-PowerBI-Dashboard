@@ -47,10 +47,11 @@ The project includes:
 ## Sample Visualizations
 
 ### Correlation Heatmap
-![Heatmap](Images\correlation_heatmap.png)
+![Heatmap](Images/correlation_heatmap.png)
+
 
 ### Death Analysis
-![Death Analysis](Images\death_analysis.png)
+![Death Analysis](Images/death_analysis.png)
 
 ## Conclusion
 This project demonstrates practical healthcare data analysis and visualization skills using Python.
