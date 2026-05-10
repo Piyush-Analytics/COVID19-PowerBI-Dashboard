@@ -47,10 +47,11 @@ The project includes:
 ## Sample Visualizations
 
 ### Correlation Heatmap
-![Heatmap](Images\correlation_heatmap.png)
+![Heatmap](https://raw.githubusercontent.com/Piyush-Analytics/COVID19-PowerBI-Dashboard/main/correlation_heatmap.png)
+
 
 ### Death Analysis
-![Death Analysis](Images\death_analysis.png)
+![Death Analysis](https://raw.githubusercontent.com/Piyush-Analytics/COVID19-PowerBI-Dashboard/main/death_analysis.png)
 
 ## Conclusion
 This project demonstrates practical healthcare data analysis and visualization skills using Python.
